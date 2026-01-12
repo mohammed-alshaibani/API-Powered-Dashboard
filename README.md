@@ -36,15 +36,13 @@
 - قاعدة بيانات (MySQL/PostgreSQL/SQLite/SQL Server)
 - Laravel Sanctum للمصادقة
 
-### خطوات التثبيت
-
-1. **استنساخ المستودع**
+## التثبيت
+1. استنساخ المستودع:
    ```bash
-   git clone [رابط المستودع]
-   cd DashboardWithApis
+   git clone https://github.com/mohammed-alshaibani/API-Powered-Dashboard.git
    ```
 
-2. **تثبيت حزم PHP**
+2. تثبيت حزم PHP:
    ```bash
    composer install
    ```
@@ -399,5 +397,6 @@ curl -X GET http://localhost:8000/api/Products/Category/1 \
 }
 
 **مبني بـ ❤️ باستخدام [Laravel](https://laravel.com/)**
-#   A P I - P o w e r e d - D a s h b o a r d  
+#   A P I - P o w e r e d - D a s h b o a r d 
+ 
  
